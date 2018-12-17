@@ -16,3 +16,9 @@ This sort of file I would like to keep eventually so I need to figure out how to
 Commits: 
 
 Commits are the running changes to a branch that are being made. They would be like the "Save: Version_X.1; Save: Version_X.2"
+
+Pull request:
+
+A pull request is a proposed change to the master branch. It is "request" to have those edits added to the master. The pull request shows the additions (green) and subractions (red). 
+
+It shows the "diffs" or differences between the master and the current branch.
