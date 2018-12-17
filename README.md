@@ -13,3 +13,6 @@ For example: Weather Station Power Monitoring with the INA219 might be a "INA219
 
 This sort of file I would like to keep eventually so I need to figure out how to make it it's own repository eventually. 
 
+Commits: 
+
+Commits are the running changes to a branch that are being made. They would be like the "Save: Version_X.1; Save: Version_X.2"
